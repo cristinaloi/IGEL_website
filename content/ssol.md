@@ -13,14 +13,55 @@ IGEL is the publisher of the Diamond Open Access journal *Scientific Study of Li
 
 
 ### Editorial Board
-- David Hanauer, Indiana University of Pennsylvania - General Editor
-- Arthur Jacobs, Freie Universität Berlin - Associate Editor
-- Melanie C. Green, University of Buffalo - Associate Editor
-- Gerhard Lauer, Johannes Gutenberg-Universität Mainz - Associate Editor
-- Paul Sopcák, MacEwan University - Associate Editor
-- Federico Pianzola, University of Groningen - Managing Editor
-- Justin Nicholas, University of Wisconsin - Copy Editor
 
+## Editor in Chief
+- Moniek Kuijpers, University of Basel, CH
+  
+## Associate Editors
+- Melanie C. Green, University at Buffalo, US
+- Paul Sopčák, RWTH Aachen University, DE
+- Emily Troscianko, University of Oxford, UK 
+- Anežka Kuzmičová, Charles University, CZ
+  
+## Managing Editors
+- Federico Pianzola, University of Groningen, NL 
+- Katja Warstat-Willms, RWTH Aachen University, DE
+  
+## Editorial Board
+- Markus Appel, University of Linz, DE
+- Douglas Biber, Northern Arizona University, US
+- Marisa Bortolussi, University of Alberta, CA
+- Brian Boyd, University of Auckland, NZ
+- Gerald C. Cupchik, University of Toronto, CA
+- Robert Darnton, Harvard University Library, US
+- Peter Dixon, University of Alberta, CA
+- Richard J. Gerrig, Stony Brook University, US
+- Raymond W. Gibbs Jr., University of California at Santa Cruz, US
+- Rachel Giora, University of Tel Aviv, IL
+- Arthur M. Graesser, University of Memphis, US
+- Frank Hakemulder, University of Utrecht, NL
+- Don Kuiken, University of Alberta, CA
+- János László, Hungarian Academy of Sciences, HU
+- Max M. Louwerse, Tilburg University, NL
+- Raymond Mar, York University, CA
+- David S. Miall, University of Alberta, CA
+- Keith Oatley, University of Toronto, CA
+- Mary Beth Oliver, Penn State, US
+- Willie van Peer, Ludwig Maximilian University of Munich, DE
+- James W. Pennebaker, University of Texas, US
+- Joan Peskin, University of Toronto, CA
+- Steven Pinker, Harvard University, US
+- David N. Rapp, Northwestern University, US
+- Margrit Schreier, Jakobs University Bremen, DE
+- Yeshayahu Shen, Tel Aviv University, IL
+- Mick Short, University of Lancaster, UK
+- Gerard J. Steen, University of Amsterdam, NL
+- Ed S. Tan, University of Amsterdam, NL
+- Reinhold Viehoff, University of Halle, DE
+- Peter Vorderer, University of Mannheim, DE
+- Joris van Zundert, Huygens Institute, NL
+- Rolf A. Zwaan, Erasmus University Rotterdam, NL
+- Sonia Zyngier, Federal University of Rio de Janeiro, BR
 
 ### Related journals
 
