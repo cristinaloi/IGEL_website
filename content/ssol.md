@@ -12,22 +12,22 @@ IGEL is the publisher of the Diamond Open Access journal *Scientific Study of Li
 [to be completed]-->
 
 
-### Editorial Board
+## Editorial Board
 
-## Editor in Chief
+### Editor in Chief
 - Moniek Kuijpers, University of Basel, CH
   
-## Associate Editors
+### Associate Editors
 - Melanie C. Green, University at Buffalo, US
 - Paul Sopčák, RWTH Aachen University, DE
 - Emily Troscianko, University of Oxford, UK 
 - Anežka Kuzmičová, Charles University, CZ
   
-## Managing Editors
+### Managing Editors
 - Federico Pianzola, University of Groningen, NL 
 - Katja Warstat-Willms, RWTH Aachen University, DE
   
-## Editorial Board
+### Editorial Board
 - Markus Appel, University of Linz, DE
 - Douglas Biber, Northern Arizona University, US
 - Marisa Bortolussi, University of Alberta, CA
@@ -63,7 +63,7 @@ IGEL is the publisher of the Diamond Open Access journal *Scientific Study of Li
 - Rolf A. Zwaan, Erasmus University Rotterdam, NL
 - Sonia Zyngier, Federal University of Rio de Janeiro, BR
 
-### Related journals
+## Related journals
 
 * [Empirical Studies of the Arts](https://us.sagepub.com/en-us/nam/empirical-studies-of-the-arts/journal202393#description) - This journal is an interdisciplinary venue for theoretical and empirical studies of aesthetics, creativity, and the arts.
 
